@@ -8,7 +8,6 @@ Profissional com 8 anos de experiência em Qualidade de Software, atuando com te
 Expertise em automação de testes com Robot Framework e Appium, otimizando processos e reduzindo tempo de execução. Forte atuação em testes funcionais, regressivos, integração e desempenho, além de validação de APIs (Postman) e testes de carga e stress (JMeter).
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/eliseu-fesantos/](https://www.linkedin.com/in/luiz-carlos-soares-da-silva-junior-756a6645/))
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliseu.luizjunior.tec@gmail.com)
 ---
 ## 🤖 Linguagens e Tecnologias
