@@ -23,8 +23,8 @@ Expertise em automação de testes com Robot Framework e Appium, otimizando proc
 
 ---
 ## 📊 Estatísticas
-| ![Luiz Carlos Junior GitHub Stats](https://github-readme-stats.vercel.app/api?username=juniorsp25&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eliseufesantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
-| --- | --- |
+| ![Luiz Carlos Junior GitHub Stats](https://github-readme-stats.vercel.app/api?username=juniorsp25&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+
 
 
 
