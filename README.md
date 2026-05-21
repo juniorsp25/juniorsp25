@@ -2,6 +2,7 @@
 **Seja bem-vindo ao meu perfil!**
 
 > “Não adianta dizer ‘nós estamos fazendo o nosso melhor’. Você deve ter sucesso fazendo o que é necessário.” Winston Churchill 
+
 (PT-BR)
 QA Sênior com mais de 8 anos de experiência em testes manuais e automatizados para 
 aplicações Web, Mobile e APIs. 
