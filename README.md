@@ -69,7 +69,17 @@ and end-to-end software quality assurance throughout the software development li
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" alt="Insomnia" title="Insomnia" width="30px" style="padding-right: 10px;"/>
   <strong>Insomnia:</strong> Ferramenta leve para testes e visualização de APIs.
 </p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="30px" style="padding-right: 10px;"/> <strong>Playwright:</strong> Framework moderno para automação de testes Web End-to-End com suporte a múltiplos navegadores.
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
+       alt="Playwright"
+       title="Playwright"
+       width="30px"/>
+
+  <span>
+    <strong>Playwright:</strong>
+    Framework moderno para automação de testes Web End-to-End com suporte a múltiplos navegadores.
+  </span>
+</div>
 </p>
 
 ---
