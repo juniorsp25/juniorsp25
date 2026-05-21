@@ -4,6 +4,7 @@
 > “Não adianta dizer ‘nós estamos fazendo o nosso melhor’. Você deve ter sucesso fazendo o que é necessário.” Winston Churchill 
 
 (PT-BR)
+
 QA Sênior com mais de 8 anos de experiência em testes manuais e automatizados para 
 aplicações Web, Mobile e APIs. 
 Experiência com Cypress, Playwright, Selenium, Appium, Robot Framework, Postman e 
@@ -13,7 +14,7 @@ testes em ambientes ágeis (Scrum/Kanban).
 Vivência em Test Strategy, Test Automation Framework, CI/CD, Azure DevOps, BDD e garantia 
 da qualidade em todo ciclo de desenvolvimento de software.
 
-(EN-EN)
+(EN)
 
 Senior QA professional with over 8 years of experience in manual and automated testing for 
 Web, Mobile, and API applications. 
