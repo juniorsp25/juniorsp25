@@ -2,10 +2,26 @@
 **Seja bem-vindo ao meu perfil!**
 
 > “Não adianta dizer ‘nós estamos fazendo o nosso melhor’. Você deve ter sucesso fazendo o que é necessário.” Winston Churchill 
+(PT-BR)
+QA Sênior com mais de 8 anos de experiência em testes manuais e automatizados para 
+aplicações Web, Mobile e APIs. 
+Experiência com Cypress, Playwright, Selenium, Appium, Robot Framework, Postman e 
+JMeter. 
+Atuação em testes funcionais, regressivos, E2E, APIs REST, performance e automação de 
+testes em ambientes ágeis (Scrum/Kanban). 
+Vivência em Test Strategy, Test Automation Framework, CI/CD, Azure DevOps, BDD e garantia 
+da qualidade em todo ciclo de desenvolvimento de software.
 
-Profissional com 8 anos de experiência em Qualidade de Software, atuando com testes manuais e automação para garantir entregas eficientes e de alta qualidade. Especializado em metodologias ágeis (SCRUM/KANBAN) e ferramentas como Azure DevOps, Jira, Cypress, Robot Framework e Appium, assegurando a validação e confiabilidade de aplicações web e mobile (Android/iOS).
+(EN-EN)
 
-Expertise em automação de testes com Robot Framework e Appium, otimizando processos e reduzindo tempo de execução. Forte atuação em testes funcionais, regressivos, integração e desempenho, além de validação de APIs (Postman) e testes de carga e stress (JMeter).
+Senior QA professional with over 8 years of experience in manual and automated testing for 
+Web, Mobile, and API applications. 
+Hands-on experience with Cypress, Playwright, Selenium, Appium, Robot Framework, 
+Postman, and JMeter. 
+Strong background in functional, regression, E2E, REST API, performance, and test 
+automation in Agile environments (Scrum/Kanban). 
+Experience with Test Strategy, Test Automation Frameworks, CI/CD, Azure DevOps, BDD, 
+and end-to-end software quality assurance throughout the software development lifecycle. 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-carlos-soares-da-silva-junior-756a6645/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliseu.luizjunior.tec@gmail.com)
@@ -52,7 +68,9 @@ Expertise em automação de testes com Robot Framework e Appium, otimizando proc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" alt="Insomnia" title="Insomnia" width="30px" style="padding-right: 10px;"/>
   <strong>Insomnia:</strong> Ferramenta leve para testes e visualização de APIs.
 </p>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="30px" style="padding-right: 10px;"/>
+<strong>Playwright:</strong> Framework moderno para automação de testes Web End-to-End com suporte a múltiplos navegadores.
+</p>
 
 ---
 
